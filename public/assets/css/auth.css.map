@@ -1,0 +1,1 @@
+{"version":3,"sources":["auth.less","auth.css"],"names":[],"mappings":"AACA;EACE,kBAAA;EACA,qBAAA;CCAD","file":"auth.css","sourcesContent":["\nbody {\n  padding-top: 70px;\n  padding-bottom: 30px;\n}","body {\n  padding-top: 70px;\n  padding-bottom: 30px;\n}\n"],"sourceRoot":"/source/"}

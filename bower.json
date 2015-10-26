@@ -1,0 +1,21 @@
+{
+  "name": "sms-gate-verification",
+  "version": "0.0.1",
+  "authors": [
+    "Avin Grape <carcinogen75@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4",
+    "font-awesome": "~4.4.0",
+    "select2": "~4.0.0"
+  }
+}
